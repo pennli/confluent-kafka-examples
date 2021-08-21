@@ -1,3 +1,5 @@
+[toc]
+
 ![image](images/confluent-logo-300-2.png)
 
 * [Demos](#demos)
